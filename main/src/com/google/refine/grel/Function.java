@@ -38,7 +38,7 @@ import java.util.Properties;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonInclude.Include;
 import com.fasterxml.jackson.annotation.JsonProperty;
-
+ 
 /**
  * Interface for functions. When a function is called, its arguments have already been evaluated down into non-error
  * values.
